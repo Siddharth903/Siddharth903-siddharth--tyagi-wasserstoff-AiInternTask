@@ -12,3 +12,7 @@
 
 ## Run python3 summarizzer.file and put your files in input folder and see result in output folder 
    You can run n number of text file to summarize it.
+
+
+## LIVE DEMO HOW MODEL WORKS
+https://drive.google.com/file/d/1Oy2oEzhkoD0oIYIplFKwnE0q4tOw_h5A/view?usp=sharing
